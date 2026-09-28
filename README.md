@@ -31,3 +31,9 @@ Os gráficos foram feitos de forma utilizando o Plotly Express e são exibidos n
 * vehicles.csv;
 * notebooks/EDA.ipynb;
 * requirement.txt.
+
+
+
+##### **URL do aplicativo no Render**
+
+[analise-dados-veiculos.onrender.com](https://analise-dados-veiculos.onrender.com/)
