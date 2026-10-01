@@ -1,4 +1,3 @@
-
 Projeto referente à SPRINT 5
 
 # **Análise de Preço de Veículos**
@@ -7,7 +6,7 @@ Projeto referente à SPRINT 5
 
 Com o intuido de desnvolver um aplicativo web através de Streamlit, Pandas e Ploty Express para visualizar as informações sobre os veículos anunciados. Apresentamos uma análise exploratória de dados de anuncios de veículos usados.
 
-### **Funcionalidades** 
+### **Funcionalidades**
 
 Temos dois gráficos interativos:
 
@@ -29,10 +28,10 @@ Os gráficos foram feitos de forma utilizando o Plotly Express e são exibidos n
 * app.py;
 * vehicles.csv;
 * notebooks/EDA.ipynb;
-* requirement.txt.
-
-
+* requirements.txt.
 
 ##### **URL do aplicativo no Render**
 
 [analise-dados-veiculos.onrender.com](https://analise-dados-veiculos.onrender.com/)
+
+Como utilizo do plano gratuito no Render, o aplicativo pode levar alguns minutos para abrir.

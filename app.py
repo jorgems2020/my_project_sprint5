@@ -24,11 +24,7 @@ if hist_button:
         title='Distribuição do Preço dos Veículos'
     )
     
-    fig.update_layout(
-        xaxis_title='Preço',
-        yaxis_title='Quantide de de Veículos'
-    )
-    
+      
     fig.update_layout(
         xaxis_title='Preço',
         yaxis_title='Quantidade de Veículos',
@@ -56,11 +52,11 @@ if scatter_button:
         y='price',
         opacity=0.3,
         color_discrete_sequence=['#2E86C1'],
-        title='Relação entre Quilometragem e Preço'
+        title='Relação entre Milhagem e Preço'
     )
     
     fig.update_layout(
-        xaxis_title='Quilometragem',
+        xaxis_title='Milhagem',
         yaxis_title='Preço'
     )
     
